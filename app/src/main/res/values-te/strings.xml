@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LnTapp1</string>
+    <string name="enter_nm">పేరు నమోదు చేయండి</string>
+    <string name="enter_pwd">రహస్య సంకేతం తెలపండి</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login">ప్రవేశించండి</string>
+    <string name="cancel">రద్దు చేయండి</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LnTapp1</string>
+    <string name="enter_nm">नाम दर्ज</string>
+    <string name="enter_pwd">पास वर्ड दर्ज करें</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="cancel">रद्द करना</string>
+</resources>
